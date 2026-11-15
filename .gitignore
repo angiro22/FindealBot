@@ -4,9 +4,13 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 .mypy_cache/
-.env
 *.log
 .DS_Store
 .ipynb_checkpoints/
 .vscode
 .git
+
+# Personal sessions and API data
+.env
+*.session
+*.session-journal
